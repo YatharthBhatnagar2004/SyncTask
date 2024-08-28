@@ -1,0 +1,1 @@
+SyncTask is a To-Do app that syncs tasks with Google Calendar. Users can create, edit, and manage tasks with options for due dates and priorities. The app ensures tasks and calendar events are organized together for efficient time management.
